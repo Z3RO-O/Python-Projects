@@ -2,4 +2,3 @@
 
 #### These Projects are made using TK Interface and Pygame Libraries
 
-![Image](https://drive.google.com/uc?id=1MAixxktDgD9Ecfp5NOThQbMxDtOULAg)
